@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  list-style-position: inside;
+  background-color: beige;
+  height: 519px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  font-size: 2rem;
+}
+
+input {
+  height: 2rem;
+  width: 20rem;
+  font-size: 1.5rem;
+}
+
+ul {
+  font-size: 2rem;
+}
